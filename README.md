@@ -1,7 +1,7 @@
 # XMLfinderTag
 projeto que identifica tags especificas em arquivo XML
 
-No processo de identificação de tags do arquivo XML, foi passado as tag 'alvo'
+No processo de identificação de tags do arquivo XML, foi passado as tags 'alvo'
 usando a lib xml.etree.ElementTree para realizar o parse do XMl, 
 notificando quando uma das tags 'alvo' estavam ausente na estrutura XML
 tratando a exeção de ParseErro, para que quando uma estrura do XML esteja faltante, 
